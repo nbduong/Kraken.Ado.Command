@@ -1,0 +1,6 @@
+D:\PROJECT\Kraken\src\Kraken.Ado.Command.MySql\bin\Debug\Kraken.Ado.Command.MySql.dll
+D:\PROJECT\Kraken\src\Kraken.Ado.Command.MySql\bin\Debug\Kraken.Ado.Command.MySql.pdb
+D:\PROJECT\Kraken\src\Kraken.Ado.Command.MySql\obj\Debug\Kraken.Ado.Command.MySql.csprojAssemblyReference.cache
+D:\PROJECT\Kraken\src\Kraken.Ado.Command.MySql\obj\Debug\Kraken.Ado.Command.MySql.csproj.CoreCompileInputs.cache
+D:\PROJECT\Kraken\src\Kraken.Ado.Command.MySql\obj\Debug\Kraken.Ado.Command.MySql.dll
+D:\PROJECT\Kraken\src\Kraken.Ado.Command.MySql\obj\Debug\Kraken.Ado.Command.MySql.pdb

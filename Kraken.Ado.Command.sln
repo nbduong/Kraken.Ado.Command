@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kraken.Ado.Command", "Kraken.Ado.Command\Kraken.Ado.Command.csproj", "{E5DF1F6E-418A-4F1F-82B0-825FFA055883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kraken.Ado.Command.MySql", "Kraken.Ado.Command.MySql\Kraken.Ado.Command.MySql.csproj", "{2598B541-9B04-4284-90E2-892A58D34D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kraken.Ado.Command.Mssql", "Kraken.Ado.Command.Mssql\Kraken.Ado.Command.Mssql.csproj", "{A6B2B609-C836-4CAB-BB9B-1030375369C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DF1F6E-418A-4F1F-82B0-825FFA055883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DF1F6E-418A-4F1F-82B0-825FFA055883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DF1F6E-418A-4F1F-82B0-825FFA055883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DF1F6E-418A-4F1F-82B0-825FFA055883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2598B541-9B04-4284-90E2-892A58D34D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2598B541-9B04-4284-90E2-892A58D34D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2598B541-9B04-4284-90E2-892A58D34D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2598B541-9B04-4284-90E2-892A58D34D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B2B609-C836-4CAB-BB9B-1030375369C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B2B609-C836-4CAB-BB9B-1030375369C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B2B609-C836-4CAB-BB9B-1030375369C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B2B609-C836-4CAB-BB9B-1030375369C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97482C7D-AB89-4F24-9948-A20D4103AFFE}
+	EndGlobalSection
+EndGlobal

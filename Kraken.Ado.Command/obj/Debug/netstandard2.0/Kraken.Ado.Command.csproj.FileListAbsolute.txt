@@ -1,0 +1,16 @@
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.csproj.CoreCompileInputs.cache
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.AssemblyInfoInputs.cache
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.AssemblyInfo.cs
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\bin\Debug\netstandard2.0\Kraken.Ado.Command.deps.json
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\bin\Debug\netstandard2.0\Kraken.Ado.Command.dll
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\bin\Debug\netstandard2.0\Kraken.Ado.Command.pdb
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.dll
+D:\PROJECT\Kraken\Kraken.Ado.Command\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.pdb
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\bin\Debug\netstandard2.0\Kraken.Ado.Command.deps.json
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\bin\Debug\netstandard2.0\Kraken.Ado.Command.dll
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\bin\Debug\netstandard2.0\Kraken.Ado.Command.pdb
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.csproj.CoreCompileInputs.cache
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.AssemblyInfoInputs.cache
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.AssemblyInfo.cs
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.dll
+D:\PROJECT\Kraken\src\Kraken.Ado.Command\obj\Debug\netstandard2.0\Kraken.Ado.Command.pdb
